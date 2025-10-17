@@ -14,3 +14,7 @@ When I created this index file I wanted to use it as a visual expample for each 
 
 ![Image of the Windows 95 Logo](https://upload.wikimedia.org/wikipedia/commons/4/44/Windows_95_stacked_logo.svg)
 
+
+``` python
+print("Hello Everyone, this line is done using python")
+```
