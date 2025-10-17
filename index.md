@@ -18,3 +18,11 @@ When I created this index file I wanted to use it as a visual expample for each 
 ``` python
 print("Hello Everyone, this line is done using python")
 ```
+
+### Homework List
+- [ ] Student Introduction
+- [ ] Intro to GitHub
+- [ ] Communicate thru MarkDown
+- [ ] Programming Assignment
+- [ ] Chapter 1 & 2 Quiz
+
